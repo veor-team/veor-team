@@ -1,16 +1,13 @@
-## Hi there 👋
+﻿# VEOR
 
-<!--
-**veor-team/veor-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official GitHub profile for VEOR.
 
-Here are some ideas to get you started:
+VEOR is a digital asset platform on BNB Smart Chain focused on spot trading, P2P, Earn, payments and developer integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Official Links
+
+- Website: https://getveor.xyz/
+- Platform: https://getveor.xyz/app/
+- Documentation: https://getveor.xyz/docs/
+- X: https://x.com/getveor
+- Public Repository: https://github.com/veor-team/veor-platform
